@@ -1,0 +1,104 @@
+{
+  "authors": [
+    {
+      "author": "Albert Einstein",
+      "type": ["success", "creative", "not alive"],
+      "quotes": [
+        "Imagination is more important than knowledge.",
+        "In the middle of difficulty lies opportunity.",
+        "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "Anyone who has never made a mistake has never tried anything new."
+      ]
+    },
+    {
+      "author": "Abraham Lincoln",
+      "type": ["success", "not alive"],
+      "quotes": [
+        "The best way to predict your future is to create it.",
+        "Whatever you are, be a good one.",
+        "I walk slowly, but I never walk backward.",
+        "The ballot is stronger than the bullet."
+      ]
+    },
+    {
+      "author": "Aristotle",
+      "type": ["success", "creative", "not alive"],
+      "quotes": [
+        "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "The more you know, the more you realize you don't know.",
+        "Patience is bitter, but its fruit is sweet.",
+        "Knowing yourself is the beginning of all wisdom."
+      ]
+    },
+    {
+      "author": "Mark Twain",
+      "type": ["creative", "not alive"],
+      "quotes": [
+        "The secret of getting ahead is getting started.",
+        "Courage is resistance to fear, mastery of fear—not absence of fear.",
+        "The best way to cheer yourself up is to try to cheer somebody else up.",
+        "Whenever you find yourself on the side of the majority, it is time to pause and reflect."
+      ]
+    },
+    {
+      "author": "Benjamin Franklin",
+      "type": ["success", "business", "not alive"],
+      "quotes": [
+        "An investment in knowledge pays the best interest.",
+        "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "By failing to prepare, you are preparing to fail.",
+        "He that can have patience can have what he will."
+      ]
+    },
+    {
+      "author": "Helen Keller",
+      "type": ["success", "creative", "not alive"],
+      "quotes": [
+        "Life is either a daring adventure or nothing at all.",
+        "Alone we can do so little; together we can do so much.",
+        "The only thing worse than being blind is having sight but no vision.",
+        "Keep your face to the sunshine and you cannot see a shadow."
+      ]
+    },
+    {
+      "author": "Maya Angelou",
+      "type": ["creative", "success", "not alive"],
+      "quotes": [
+        "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+        "Try to be a rainbow in someone's cloud.",
+        "If you don’t like something, change it. If you can’t change it, change your attitude.",
+        "You alone are enough. You have nothing to prove to anybody."
+      ]
+    },
+    {
+      "author": "Leonardo da Vinci",
+      "type": ["creative", "not alive"],
+      "quotes": [
+        "Simplicity is the ultimate sophistication.",
+        "Learning never exhausts the mind.",
+        "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+        "The noblest pleasure is the joy of understanding."
+      ]
+    },
+    {
+      "author": "Socrates",
+      "type": ["success", "creative", "not alive"],
+      "quotes": [
+        "An unexamined life is not worth living.",
+        "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
+        "The only true wisdom is in knowing you know nothing.",
+        "Be kind, for everyone you meet is fighting a hard battle."
+      ]
+    },
+    {
+      "author": "Confucius",
+      "type": ["success", "not alive"],
+      "quotes": [
+        "It does not matter how slowly you go as long as you do not stop.",
+        "Our greatest glory is not in never falling, but in rising every time we fall.",
+        "Real knowledge is to know the extent of one's ignorance.",
+        "When we see men of a contrary character, we should turn inwards and examine ourselves."
+      ]
+    }
+  ]
+}
