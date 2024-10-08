@@ -99,6 +99,146 @@
         "Real knowledge is to know the extent of one's ignorance.",
         "When we see men of a contrary character, we should turn inwards and examine ourselves."
       ]
+    },
+    {
+      "author": "Thomas Edison",
+      "type": ["success", "business", "not alive"],
+      "quotes": [
+        "I have not failed. I've just found 10,000 ways that won't work.",
+        "Genius is one percent inspiration, ninety-nine percent perspiration.",
+        "The value of an idea lies in the using of it.",
+        "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+      ]
+    },
+    {
+      "author": "Marie Curie",
+      "type": ["success", "not alive"],
+      "quotes": [
+        "One never notices what has been done; one can only see what remains to be done.",
+        "I was taught that the way of progress was neither swift nor easy.",
+        "Nothing in life is to be feared, it is only to be understood.",
+        "Be less curious about people and more curious about ideas."
+      ]
+    },
+    {
+      "author": "Jane Austen",
+      "type": ["creative", "not alive"],
+      "quotes": [
+        "There is no charm equal to tenderness of heart.",
+        "You must be the best judge of your own happiness.",
+        "It isn't what we say or think that defines us, but what we do.",
+        "To wish is to hope, and to hope is to expect."
+      ]
+    },
+    {
+      "author": "Emily Dickinson",
+      "type": ["creative", "not alive"],
+      "quotes": [
+        "Hope is the thing with feathers that perches in the soul—and sings the tunes without the words—and never stops at all.",
+        "The soul should always stand ajar, ready to welcome the ecstatic experience.",
+        "Not knowing when the dawn will come, I open every door.",
+        "Forever is composed of nows."
+      ]
+    },
+    {
+      "author": "Oscar Wilde",
+      "type": ["creative", "not alive"],
+      "quotes": [
+        "Be yourself; everyone else is already taken.",
+        "To live is the rarest thing in the world. Most people exist, that is all.",
+        "I can resist anything except temptation.",
+        "Experience is simply the name we give our mistakes."
+      ]
+    },
+    {
+      "author": "Michelangelo",
+      "type": ["creative", "not alive"],
+      "quotes": [
+        "The greater danger for most of us lies not in setting our aim too high and falling short, but in setting our aim too low and achieving our mark.",
+        "I saw the angel in the marble and carved until I set him free.",
+        "If people knew how hard I worked to get my mastery, it wouldn't seem so wonderful at all.",
+        "Faith in oneself is the best and safest course."
+      ]
+    },
+    {
+      "author": "Nikola Tesla",
+      "type": ["creative", "success", "not alive"],
+      "quotes": [
+        "The present is theirs; the future, for which I really worked, is mine.",
+        "If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration.",
+        "I don't care that they stole my idea; I care that they don't have any of their own.",
+        "Be alone, that is the secret of invention; be alone, that is when ideas are born."
+      ]
+    },
+    {
+      "author": "Steve Jobs",
+      "type": ["business", "creative", "not alive"],
+      "quotes": [
+        "The only way to do great work is to love what you do.",
+        "Innovation distinguishes between a leader and a follower.",
+        "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+        "Stay hungry, stay foolish."
+      ]
+    },
+    {
+      "author": "Andrew Carnegie",
+      "type": ["business", "success", "not alive"],
+      "quotes": [
+        "The man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.",
+        "As I grow older, I pay less attention to what men say. I just watch what they do.",
+        "Do your duty and a little more and the future will take care of itself.",
+        "No man becomes rich unless he enriches others."
+      ]
+    },
+    {
+      "author": "Henry Ford",
+      "type": ["business", "success", "not alive"],
+      "quotes": [
+        "Failure is simply the opportunity to begin again, this time more intelligently.",
+        "Whether you think you can, or you think you can't – you're right.",
+        "Don't find fault, find a remedy.",
+        "Coming together is a beginning; keeping together is progress; working together is success."
+      ]
+    },
+    {
+      "author": "Thomas Edison",
+      "type": ["business", "creative", "not alive"],
+      "quotes": [
+        "I have not failed. I've just found 10,000 ways that won't work.",
+        "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+        "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+        "There is no substitute for hard work."
+      ]
+    },
+    {
+      "author": "Coco Chanel",
+      "type": ["business", "creative", "not alive"],
+      "quotes": [
+        "The most courageous act is still to think for yourself. Aloud.",
+        "Success is most often achieved by those who don’t know that failure is inevitable.",
+        "Don't spend time beating on a wall, hoping to transform it into a door.",
+        "Elegance is when the inside is as beautiful as the outside."
+      ]
+    },
+    {
+      "author": "David Ogilvy",
+      "type": ["business", "creative", "not alive"],
+      "quotes": [
+        "The consumer isn't a moron; she's your wife.",
+        "Don't bunt. Aim out of the ballpark.",
+        "The best ideas come as jokes. Make your thinking as funny as possible.",
+        "If it doesn’t sell, it isn’t creative."
+      ]
+    },
+    {
+      "author": "Ray Kroc",
+      "type": ["business", "success", "not alive"],
+      "quotes": [
+        "If you work just for money, you'll never make it, but if you love what you're doing and you always put the customer first, success will be yours.",
+        "Luck is a dividend of sweat. The more you sweat, the luckier you get.",
+        "As long as you're green, you're growing. As soon as you're ripe, you start to rot.",
+        "The quality of a leader is reflected in the standards they set for themselves."
+      ]
     }
   ]
 }
